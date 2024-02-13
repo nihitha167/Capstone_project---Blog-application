@@ -1,5 +1,3 @@
-# Capstone_project---Blog-application
-
 # My Blog Application
 
 Welcome to My Blog Application! This is a simple web application built with Node.js and Express.js for creating and viewing blog posts.
